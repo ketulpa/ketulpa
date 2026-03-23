@@ -1,16 +1,88 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ketul Patel</h1>
+<h3 align="center">Linux System Administrator | RHCSA Certified | AWS Learner</h3>
 
-<!--
-**ketulpa/ketulpa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 💼 Working as a **Technical Support Engineer (Web Hosting)**
+- 🐧 Linux System Administrator with hands-on experience in **server monitoring & troubleshooting**
+- 🎓 RHCSA Certified | Preparing for **RHCE**
+- ☁️ Currently learning **AWS Cloud**
+- 🛠️ Experience with hosting environments and control panels
+- 🎯 Goal: Work directly on **servers & cloud infrastructure**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Skills & Tools
+
+### 🐧 Linux & Servers
+- RHEL / CentOS / Ubuntu
+- Server Monitoring & Troubleshooting
+- SSH, Permissions, Process Management
+
+### 🌐 Web Hosting
+- cPanel / WHM
+- Plesk
+- Webmin / Hestia / CyberPanel
+- Apache / Nginx
+
+### 🗄️ Databases
+- MySQL (Basic)
+
+### ☁️ Cloud (Learning)
+- AWS (EC2, S3 - Basics)
+
+### 🔧 Other Tools
+- Git (Basic)
+- CRM Tools (Intercom, Tawk, etc.)
+
+---
+
+## 📂 Projects (Hands-on Practice)
+
+- 🔧 Linux Server Setup (Apache/Nginx)
+- 🌐 Hosting Panel Setup & Website Deployment
+- 💾 Backup Monitoring (R1Soft)
+- ☁️ AWS EC2 Instance Setup (Practice Lab)
+
+---
+
+## 🏆 Certifications
+
+- ✅ RHCSA (Red Hat Certified System Administrator)
+- 📘 RHCE (In Progress)
+- ☁️ AWS Solutions Architect (Learning)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
+- 🌐 Portfolio: YOUR-WEBSITE
+- 📧 Email: YOUR-EMAIL
+
+---
+
+## 👀 Profile Views
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+## ⚡ Currently Learning
+- AWS Cloud (EC2, S3, IAM)
+- RHCE Preparation
+- Shell Scripting (Beginner Level)
+
+---

@@ -66,9 +66,9 @@
 
 ## 📫 Connect With Me
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 🌐 Portfolio: YOUR-WEBSITE
-- 📧 Email: YOUR-EMAIL
+- 💼 LinkedIn: [https://www.linkedin.com/in/ketulrpatel/]
+- 🌐 Portfolio: https://ketulsysadmin.wordpress.com/
+- 📧 Email: ketulrapatel@gmail.com
 
 ---
 

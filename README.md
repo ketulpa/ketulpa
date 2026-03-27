@@ -32,6 +32,7 @@
 - Linux (RHEL-based & Debian-based distributions)
 - Windows Server (Deployment, IIS, RDP, Basic Administration)
 - LVM, SSH, User & Permission Management
+- Migrations
 
 ### 🌐 Web & Application Stack
 - Apache / Nginx / IIS
@@ -72,7 +73,7 @@
 
 - ✅ RHCSA (Red Hat Certified System Administrator)
 - 📘 RHCE (Training Completed)
-- ☁️ AWS Solutions Architect (Course Completed)
+- ☁️ AWS Solutions Architect (Training Completed)
 - 🌩️ Oracle Cloud Foundations Associate
 
 ---

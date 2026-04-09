@@ -33,4 +33,3 @@ Sysadmin by trade. I keep Linux servers alive, secure, and boring (the good kind
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ketulpa&theme=tokyonight&hide_border=true&card_width=600&date_format=j%20M%5B%20Y%5D" height="200"/>
 </p>
-## second update

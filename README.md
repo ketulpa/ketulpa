@@ -27,7 +27,7 @@ Sysadmin by trade. I keep Linux servers alive, secure, and boring (the good kind
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ketulpa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="180"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ketulpa&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">

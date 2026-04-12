@@ -30,7 +30,7 @@ Sysadmin by trade. I keep Linux servers alive, secure, and boring (the good kind
 
 - [![RHCSA — Red Hat Certified System Administrator](https://img.shields.io/badge/RHCSA-Red_Hat_Certified_System_Administrator-EE0000?style=flat&logo=redhat&logoColor=white)](https://www.credly.com/badges/417f97ed-53e4-48cd-8752-a05bd9a03cd1/public_url)
 
-- [![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle_Cloud-Infrastructure_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white)](https://www.credly.com/badges/YOUR-ORACLE-BADGE-ID/public_url](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5FF63D83B467FFF0CAC2409702235315CAE0BC8473D7A3BA8E6CC3E6CBEBF81B)
+- [![Oracle Cloud Infrastructure Foundations Associate](https://img.shields.io/badge/Oracle_Cloud-Infrastructure_Foundations_Associate-F80000?style=flat&logo=oracle&logoColor=white)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=5FF63D83B467FFF0CAC2409702235315CAE0BC8473D7A3BA8E6CC3E6CBEBF81B)
 
 
 ---

@@ -1,6 +1,6 @@
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=ketulpa&color=00e676&style=flat-square&label=Profile+Views"/> </p>
 
-### Hey, I'm Ketul 👋   
+### Hey, I'm Ketul
 
 Sysadmin by trade. I keep Linux servers alive, secure, and boring (the good kind).
 
